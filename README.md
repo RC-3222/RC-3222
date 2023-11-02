@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hi there 👋
+
+## Some info about me
+
+Codewars Stats\
+![Codewars Stats](https://github.r2v.ch/codewars?user=VanDark2000&name=true)
 
 <!--
 **RC-3222/RC-3222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
