@@ -6,7 +6,7 @@ Codewars Stats\
 <img height="180rem" src="https://github.r2v.ch/codewars?user=VanDark2000&name=true"/>
 
 ## Dev Stats
-<img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RC-3222&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RC-3222&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=onedark"/>
 <!--
 **RC-3222/RC-3222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
